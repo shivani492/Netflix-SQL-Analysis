@@ -3,9 +3,12 @@
   <img src="logo.png" alt="Netflix SQL Analysis Logo" width="180">
 </p>
 
-<h1 align="center">Netflix SQL Analysis</h1>
+<h1 align="center">
 
 <p align="center">
+
+
+  
   SQL-based analysis of the Netflix Movies & TV Shows dataset using MySQL.
 </p>
 
