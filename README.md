@@ -1,16 +1,5 @@
 # Netflix-SQL-Analysis
 
-# Netflix SQL Analysis
-<p align="center">
-  <img src="logo.png" alt="Netflix SQL Analysis Logo" width="180">
-</p>
-
-<h1 align="center">Netflix SQL Analysis</h1>
-
-<p align="center">
-  SQL-based analysis of the Netflix Movies & TV Shows dataset using MySQL.
-</p>
-
 ## Overview
 
 This project analyzes the Netflix Movies and TV Shows dataset using **MySQL**. It focuses on solving real-world business questions and demonstrates SQL concepts ranging from basic queries to advanced analytical techniques.
